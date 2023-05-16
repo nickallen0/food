@@ -5,4 +5,5 @@ Carpentry git course demo repo
 
 ### Menu of the day
 Pea soup
+
 Cakes including brownies and cookies
